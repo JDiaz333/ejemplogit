@@ -20,6 +20,12 @@
 - Sube tu código
 - Descarga tu código en el otro repositorio de trabajo
 
+<<<<<<< HEAD
 # Provocando un conflicto
 
 - Este texto lo escribo en la ubicación principal (*despliegue*)
+=======
+# Nuevo texto en *Descargas*
+
+- Este texto lo añado en la ubicación secundaria
+>>>>>>> d696610 (cambios en descarga)
