@@ -19,3 +19,7 @@
 - Haz un commit
 - Sube tu código
 - Descarga tu código en el otro repositorio de trabajo
+
+# Provocando un conflicto
+
+- Este texto lo escribo en la ubicación principal (*despliegue*)
